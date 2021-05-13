@@ -60,6 +60,8 @@
 
 This is a Postman Clone Website developed using JavaScript Fetch API!
 
+### Guide
+
 ```
 [GET] -------------------
 URL:
@@ -88,6 +90,7 @@ PARAMS:
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [JavaScript](https://www.javascript.com/)
+* [Prism](https://prismjs.com/)
 * [GitHub](https://github.com)
 
 
